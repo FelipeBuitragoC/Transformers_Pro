@@ -38,3 +38,7 @@ Experiments related to:
 - Named Entity Recognition (NER)
 - Token classification
 - Biomedical entity extraction
+
+Felipe Buitrago
+
+Biomedical Engineering • Artificial Intelligence • NLP • Deep Learning
